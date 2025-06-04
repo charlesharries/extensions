@@ -50,6 +50,20 @@
       ]
     },
     {
+      "name": "random-note",
+      "title": "View Random Note",
+      "subtitle": "Apple Notes",
+      "description": "View a random note in your Apple Notes.",
+      "mode": "no-view",
+      "arguments": [
+        {
+          "name": "tags",
+          "type": "text",
+          "placeholder": "Tags"
+        }
+      ]
+    },
+    {
       "name": "ai",
       "title": "AI Note",
       "subtitle": "Apple Notes",
